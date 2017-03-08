@@ -1,0 +1,15 @@
+.controls {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;
+	
+	.button:first-child {
+		margin-right: 15px;
+	}
+	.button {
+		padding: 10px 35px;
+	}
+}
